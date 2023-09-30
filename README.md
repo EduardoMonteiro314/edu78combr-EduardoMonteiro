@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou Eduardo Monteiro
+- 👀 Sou interresado no mundo da programação e testar minhas habilidades 
+- 🌱 Atualmente estou aprendendo C++, React JS
+- 📫 Como me encontrar: eduardo.pdsilva04@gmail.com
