@@ -1,4 +1,5 @@
 - 👋 Olá, eu sou Eduardo Monteiro
 - 👀 Tenho interesse no mundo da programação e testar minhas habilidades 
+- 📚 Tenho conhecimento de Python, PHP, HTML, CSS, Javascript e MySQL
 - 🌱 Atualmente estou aprendendo Node, React JS, React Native + Expo Dev
 - 📫 Como me encontrar: eduardo.pdsilva04@gmail.com
